@@ -16,6 +16,7 @@ public class Post {
 
 
     //재영님 이걸 어찌해야합니까.
+    // 그러게 말입니다...
 
     public Post(PostDto postDto) {
         this.postId = postDto.getPostId();
