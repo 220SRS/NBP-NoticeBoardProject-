@@ -13,6 +13,10 @@ public class Post {
     Blob img;
 
 
+
+
+    //재영님 이걸 어찌해야합니까.
+
     public Post(PostDto postDto) {
         this.postId = postDto.getPostId();
         this.title = postDto.getTitle();
